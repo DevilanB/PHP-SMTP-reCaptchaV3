@@ -1,0 +1,1 @@
+Recuerda que para que funcione debes cambiar los campos que he comentado con "//Modificalo", suplantarlos por los datos de tus mails tanto de envio como de recepcion (puedes usar el mismo) y tus kesy de reCaptcha V3(importante que se V3), y llamar desde tu front a travez de callsendmail.
